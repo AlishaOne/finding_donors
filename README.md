@@ -1,4 +1,6 @@
-## Project: Finding Donors for CharityML
+## Project: Finding Donors for Charity Group
+Udacity MLND: Project: Supervised Learning - Finding Donors for Charity Group
+
 In this project, I have applied several supervised algorithms to accurately model individuals' income using data collected from the 1994 U.S. Census. The goal is to construct a model that accurately predicts whether an individual makes more than $50,000. This sort of task can arise in a non-profit setting, where organizations survive on donations. 
 
 <img src="https://github.com/ziyaotang/finding_donors/blob/master/headline.png">
