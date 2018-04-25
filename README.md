@@ -1,4 +1,7 @@
 ## Project: Finding Donors for CharityML
+In this project, I have applied several supervised algorithms to accurately model individuals' income using data collected from the 1994 U.S. Census. The goal is to construct a model that accurately predicts whether an individual makes more than $50,000. This sort of task can arise in a non-profit setting, where organizations survive on donations. 
+
+<img src="https://github.com/ziyaotang/finding_donors/blob/master/headline.png">
 
 ### Install
 
@@ -11,11 +14,9 @@ This project requires **Python 2.7** and the following Python libraries installe
 
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
-We recommend students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
-
 ### Code
 
-The code is provided in the `finding_donors.ipynb` notebook file. You will also be required to use the included `visuals.py` Python file and the `census.csv` dataset file to run the code. 
+The code and analysis is provided in the `finding_donors.ipynb` notebook file. You will also be required to use the included `visuals.py` Python file and the `census.csv` dataset file to run the code. 
 
 ### Run
 
